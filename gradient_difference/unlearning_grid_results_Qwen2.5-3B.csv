@@ -1,0 +1,10 @@
+model,subject,lr,retain_loss_weight,efficacy_before,efficacy_after,retain_before,retain_after
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,1e-06,1.0,85.00,85.00,63.33,63.33
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,1e-06,5.0,85.00,85.00,63.33,63.33
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,1e-06,10.0,85.00,85.00,63.33,63.33
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-05,1.0,85.00,90.00,63.33,60.00
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-05,5.0,85.00,90.00,63.33,60.00
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-05,10.0,85.00,90.00,63.33,60.00
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,0.0002,1.0,85.00,50.00,63.33,36.67
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,0.0002,5.0,85.00,90.00,63.33,46.67
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,0.0002,10.0,85.00,85.00,63.33,50.00
