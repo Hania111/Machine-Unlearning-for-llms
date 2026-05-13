@@ -1,0 +1,10 @@
+model,subject,lr,beta,efficacy_before,efficacy_after,neighbours_before,neighbours_after
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,5e-05,0.3,95.0,25.0,56.7,13.3
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,5e-05,0.8,95.0,40.0,56.7,40.0
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,5e-05,1.5,95.0,45.0,56.7,40.0
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,0.0001,0.3,95.0,0.0,56.7,16.7
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,0.0001,0.8,95.0,0.0,56.7,26.7
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,0.0001,1.5,95.0,0.0,56.7,26.7
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,0.0002,0.3,95.0,0.0,56.7,3.3
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,0.0002,0.8,95.0,0.0,56.7,13.3
+Qwen/Qwen3-4B-Instruct-2507,Donald Trump,0.0002,1.5,95.0,0.0,56.7,13.3
