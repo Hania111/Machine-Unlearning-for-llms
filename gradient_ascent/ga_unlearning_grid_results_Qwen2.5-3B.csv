@@ -1,10 +1,10 @@
 model,subject,lr,max_steps,efficacy_before,efficacy_after,neighbours_before,neighbours_after
-Qwen/Qwen2.5-3B-Instruct,Donald Trump,0.0001,30,85.0,85.0,63.3,60.0
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,0.0001,30,85.0,75.0,63.3,60.0
 Qwen/Qwen2.5-3B-Instruct,Donald Trump,0.0001,100,85.0,0.0,63.3,0.0
 Qwen/Qwen2.5-3B-Instruct,Donald Trump,0.0001,300,85.0,0.0,63.3,0.0
-Qwen/Qwen2.5-3B-Instruct,Donald Trump,3e-05,30,85.0,0.0,63.3,0.0
-Qwen/Qwen2.5-3B-Instruct,Donald Trump,3e-05,100,85.0,0.0,63.3,0.0
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,3e-05,30,85.0,85.0,63.3,63.3
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,3e-05,100,85.0,75.0,63.3,63.3
 Qwen/Qwen2.5-3B-Instruct,Donald Trump,3e-05,300,85.0,0.0,63.3,0.0
-Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-06,30,85.0,0.0,63.3,0.0
-Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-06,100,85.0,0.0,63.3,0.0
-Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-06,300,85.0,0.0,63.3,0.0
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-06,30,85.0,85.0,63.3,60.0
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-06,100,85.0,85.0,63.3,63.3
+Qwen/Qwen2.5-3B-Instruct,Donald Trump,5e-06,300,85.0,85.0,63.3,63.3
